@@ -210,13 +210,6 @@ export default function Home() {
               <div className="social-card">
                 <span className="social-label">SEE WHAT WE DO</span>
                 <strong>@mddeals</strong>
-                <a
-                  href="https://www.tiktok.com/@mddeals"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  TikTok ↗
-                </a>
               </div>
             </div>
 
@@ -249,9 +242,7 @@ export default function Home() {
             <span>SellMyInventory<span className="logo-green">USA</span></span>
           </a>
           <p>© {new Date().getFullYear()} SellMyInventoryUSA · MDDeals</p>
-          <a href="https://www.tiktok.com/@mddeals" target="_blank" rel="noreferrer">
-            @mddeals ↗
-          </a>
+       
         </div>
       </footer>
     </>
