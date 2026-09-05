@@ -1,4 +1,5 @@
 import SellForm from "./components/SellForm";
+import Chatbot from "./components/Chatbot";
 
 const inventoryTypes = [
   ["01", "Overstock", "Too much inventory on hand? We can review excess stock."],
@@ -28,8 +29,6 @@ export default function Home() {
           <a
             className="header-social"
             href="#sell"
-            target="_blank"
-            rel="noreferrer"
           >
              @mddeals ↗
           </a>
@@ -233,6 +232,7 @@ export default function Home() {
             </a>
           </div>
         </section>
+
       </main>
 
       <footer className="footer">
@@ -245,6 +245,7 @@ export default function Home() {
        
         </div>
       </footer>
+      <Chatbot />
     </>
   );
 }
