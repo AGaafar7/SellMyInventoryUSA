@@ -27,11 +27,11 @@ export default function Home() {
 
           <a
             className="header-social"
-            href="https://www.tiktok.com/@mddeals"
+            href="#sell"
             target="_blank"
             rel="noreferrer"
           >
-            <span>Follow</span> @mddeals ↗
+             @mddeals ↗
           </a>
         </div>
       </header>
