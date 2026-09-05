@@ -150,7 +150,7 @@ export default function Chatbot() {
           {
             role: "bot",
             content:
-              "✅ Your inventory inquiry has been sent! The MDDeals team will be in touch shortly.",
+              "✅ Your inventory inquiry has been sent! The SellMyInventory team will be in touch shortly.",
           },
         ]);
       } catch (error) {
@@ -196,7 +196,7 @@ export default function Chatbot() {
       {isOpen && (
         <div className="chatbot-window">
           <div className="chatbot-header">
-            <span>MDDeals Assistant</span>
+            <span>SellMyInventory Assistant</span>
             <button onClick={toggleChat} className="chatbot-close">
               ✕
             </button>

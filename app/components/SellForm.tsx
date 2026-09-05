@@ -123,7 +123,7 @@ export default function SellForm() {
       </button>
 
       <p className="form-footnote">
-        By submitting this form, you agree that MDDeals may contact you about your inventory.
+        By submitting this form, you agree that SellMyInventory may contact you about your inventory.
       </p>
     </form>
   );

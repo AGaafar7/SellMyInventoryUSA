@@ -2,10 +2,10 @@
 
 This version intentionally uses **React + Next.js + standard HTML/CSS**, not React Native.
 
-It is a marketing website for MDDeals / @mddeals with:
+It is a marketing website for SellMyInventory / @SellMyInventory with:
 
 - Responsive professional landing page
-- MDDeals visual identity: black / off-white / lime
+- SellMyInventory visual identity: black / off-white / lime
 - Hero section
 - Inventory buyer messaging
 - Process section
@@ -13,7 +13,7 @@ It is a marketing website for MDDeals / @mddeals with:
 - Inventory inquiry form
 - Next.js API route
 - Resend email integration
-- TikTok links to @mddeals
+- TikTok links to @SellMyInventory
 - SEO metadata
 
 ## Run

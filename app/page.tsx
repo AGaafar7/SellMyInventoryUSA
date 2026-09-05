@@ -14,7 +14,7 @@ export default function Home() {
       <header className="header">
         <div className="container header-inner">
           <a className="logo" href="#top" aria-label="Sell My Inventory USA">
-            <span className="logo-box">MD</span>
+            <span className="logo-box">SMI</span>
             <span>
               SellMyInventory<span className="logo-green">USA</span>
             </span>
@@ -30,7 +30,7 @@ export default function Home() {
             className="header-social"
             href="#sell"
           >
-             @mddeals ↗
+             @SellMyInventory ↗
           </a>
         </div>
       </header>
@@ -42,7 +42,7 @@ export default function Home() {
             <div className="hero-copy">
               <div className="eyebrow light">
                 <span className="eyebrow-line" />
-                MDDEALS · INVENTORY BUYERS
+                SELLMYINVENTORY · INVENTORY BUYERS
               </div>
 
               <h1>
@@ -74,7 +74,7 @@ export default function Home() {
 
             <div className="hero-visual" aria-label="Inventory boxes">
               <div className="visual-top">
-                <span>MDDEALS</span>
+                <span>SELLMYINVENTORY</span>
                 <span>INVENTORY / 001</span>
               </div>
 
@@ -92,8 +92,8 @@ export default function Home() {
                   <small>OUT</small>
                 </div>
                 <div className="box box-three">
-                  <strong>MD</strong>
-                  <small>DEALS</small>
+                  <strong>SELL MY</strong>
+                  <small>INVENTORY</small>
                 </div>
               </div>
 
@@ -154,7 +154,7 @@ export default function Home() {
                 <span className="step-no">03</span>
                 <div className="step-icon">→</div>
                 <h3>Talk next steps</h3>
-                <p>If there is a fit, the MDDeals team contacts you to discuss the opportunity.</p>
+                <p>If there is a fit, the SellMyInventory team contacts you to discuss the opportunity.</p>
               </article>
             </div>
           </div>
@@ -203,12 +203,12 @@ export default function Home() {
               </h2>
               <p>
                 Give us a few details about the inventory and the best way to
-                reach you. Your inquiry goes directly to the MDDeals team.
+                reach you. Your inquiry goes directly to the SellMyInventory team.
               </p>
 
               <div className="social-card">
                 <span className="social-label">SEE WHAT WE DO</span>
-                <strong>@mddeals</strong>
+                <strong>@SellMyInventory</strong>
               </div>
             </div>
 
@@ -220,7 +220,7 @@ export default function Home() {
           <div className="container">
             <div className="eyebrow">
               <span className="eyebrow-line dark" />
-              MDDEALS
+              SELLMYINVENTORY
             </div>
             <h2>
               Less inventory.
@@ -238,10 +238,10 @@ export default function Home() {
       <footer className="footer">
         <div className="container footer-inner">
           <a className="logo footer-logo" href="#top">
-            <span className="logo-box">MD</span>
+            <span className="logo-box">SMI</span>
             <span>SellMyInventory<span className="logo-green">USA</span></span>
           </a>
-          <p>© {new Date().getFullYear()} SellMyInventoryUSA · MDDeals</p>
+          <p>© {new Date().getFullYear()} SellMyInventoryUSA · SellMyInventory</p>
        
         </div>
       </footer>
